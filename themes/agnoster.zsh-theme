@@ -27,6 +27,7 @@
  
 CURRENT_BG='NONE'
 SEGMENT_SEPARATOR='⮀'
+RIGHT_SEGMENT_SEPARATOR='⮀'
  
 # Begin a segment
 # Takes two arguments, background and foreground. Both can be omitted,
