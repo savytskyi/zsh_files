@@ -53,8 +53,8 @@ alias p3="python3"
 alias ga="git add .; git commit -m "$1""
 alias gpom="git push origin master"
 # rubymotion
-alias raipad="rake device_family=ipad"
-alias ratf="rake testflight notes="$1""
+alias ripad="rake device_family=ipad"
+alias rtf="rake testflight notes="$1""
 
 HISTSIZE=1000
 SAVEHIST=1000
